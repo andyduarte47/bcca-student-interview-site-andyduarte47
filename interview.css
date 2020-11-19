@@ -1,0 +1,34 @@
+#title{
+  text-align: center;
+}
+#img-caption{
+  text-align: right;
+}
+p{
+  text-align: center;
+}
+body {
+    font-family: system-ui;
+    color: black;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-image: url(https://www.prunderground.com/wp-content/uploads/2018/11/2160_bcca_logo.png);
+    background-size: 500px;
+    margin: 15%;
+  
+  }
+  img {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 3%;
+  }
+#img-caption{
+  font-size: 25px;
+}
+#tribute-info{
+  font-size: 25px;
+}
+#img-caption{
+  text-align: right;
+}
